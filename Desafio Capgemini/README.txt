@@ -1,3 +1,5 @@
+Desenvolvido para Windows. 
+
 # instalar versão mais recente do python
 
 # baixar o arquivo 
